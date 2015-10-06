@@ -1,0 +1,11 @@
+
+.Widget {
+    padding: 5px;
+}
+
+.Button {
+    padding: 3px;
+    border: 1px solid gray;
+    background: white;
+    box-shadow: 2px 2px 2px black;
+}
